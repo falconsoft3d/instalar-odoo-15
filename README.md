@@ -21,7 +21,7 @@ https://m.do.co/c/7f5c3af8d6bb
 apt-get update && apt-get upgrade -y
 ```
 
-## 2- Instalamos odoo 14
+## 2- Instalamos odoo 15
 ```linux
 wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
 echo "deb http://nightly.odoo.com/15.0/nightly/deb/ ./" >> /etc/apt/sources.list
